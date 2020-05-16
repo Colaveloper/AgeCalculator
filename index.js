@@ -74,3 +74,7 @@ function reset() {
   button.innerText = "Calculate";
   button.setAttribute("onclick", "calculate()");
 }
+
+// more jesus
+//jesuuuuuus
+/ahoh
