@@ -60,7 +60,7 @@ function setLines(days, hours, minutes, seconds) {
   firstLine.innerText = `you have been living for ${Math.floor(days)} days,`;
   secondLine.innerText = `${hours} hours, ${minutes} minutes,`;
   thirdLine.innerText = `or, if you'd rather, ${seconds} seconds!`;
-}
+} //jesus
 
 function changeButton() {
   button.innerText = "do it again";
@@ -74,7 +74,3 @@ function reset() {
   button.innerText = "Calculate";
   button.setAttribute("onclick", "calculate()");
 }
-
-// more jesus
-//jesuuuuuus
-/ahoh
