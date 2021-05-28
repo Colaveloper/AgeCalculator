@@ -1,7 +1,7 @@
 # AgeCalculator
 
-That's not about converting data you already have, nor making you laugh. AgeCalculator has the only purpose of showing to yourself how long your unneeded existence have been an actual thing.
-At least it has a purpose... do ya?
+Now you can precisely know how long you've been travelling through space on this wet rock that you call home, have fun!
 
-BE CAREFUL
-Not working if ya've travelled at light-speed velocities for a considerable span of time. Hibernation can cause similar unexpected results.
+## Warning
+It won't work if you've travelled at close-to-the-speed-of-light velocities for a considerable span of time;  
+Hibernation can cause similar unexpected results.
